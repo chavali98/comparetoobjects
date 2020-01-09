@@ -1,3 +1,4 @@
+/*The ollowing java program demonstrates how to compare the state of two objects without using comparator*/
 class King
 {
 public String name;
